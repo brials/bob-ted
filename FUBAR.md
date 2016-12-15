@@ -1,3 +1,6 @@
 Brian, Ophelia, Jen, and Alejandro.
 
-Bob work on another feature w/o PR and live to regret it.
+
+
+This isn't javascript brian what are you doing. Bob & Carol #1
+
